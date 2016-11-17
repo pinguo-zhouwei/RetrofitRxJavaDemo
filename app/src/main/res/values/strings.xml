@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitRxJavaDemo</string>
+    <string name="movie_list">电影列表</string>
+    <string name="award_list">福利列表</string>
+</resources>
